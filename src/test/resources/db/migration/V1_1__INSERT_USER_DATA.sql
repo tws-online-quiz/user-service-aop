@@ -1,0 +1,1 @@
+insert into jx_user(name) values('张三');
